@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(135deg, #FF0000, #800080); 
+    background: linear-gradient(135deg, #FF0000, #FF69B4, #800080); /* Red to Pink to Purple gradient */
     color: white; 
 }
 
